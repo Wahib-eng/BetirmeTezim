@@ -32,7 +32,7 @@ def extract_frames(video_file):
     cap.release()
     cv2.destroyAllWindows()
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     video_file = r"pam.mp4"  # Replace with your video's name
     
     extract_frames(video_file)
