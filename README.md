@@ -1,10 +1,5 @@
 
-
-
-https://github.com/user-attachments/assets/6972dafa-ffb3-40b6-a54a-493080a1770b
-
-
-https://github.com/user-attachments/assets/d7a0ea9b-b9f8-453a-9296-1dcc4129467c
+![Uploading Screenshot 2024-08-03 005537.png…]()
 
 
 # Detection Model of insects on Olive Trees 
