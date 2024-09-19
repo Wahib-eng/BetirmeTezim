@@ -1,5 +1,5 @@
 
-![Uploading Screenshot 2024-08-03 005537.png…]()
+
 
 
 # Detection Model of insects on Olive Trees 
